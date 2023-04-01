@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Brain Computer interface(BCI)**
 
-- 👨‍💻 All of my projects are available at [rahuls.me](rahuls.me)
+- 👨‍💻 All of my projects are available [here](https://github.com/Rahul2003s?tab=repositories)
 
 - 📝 I regularly write articles on [https://medium.com/@rahulsri073](https://medium.com/@rahulsri073)
 
