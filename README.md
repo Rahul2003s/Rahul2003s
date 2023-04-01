@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Brain Computer interface(BCI), Embedded ML**
 
-- 👯 I’m looking to collaborate on **projects related to Embedded ML**
+- 👯 I’m looking to collaborate on **projects related to Embedded ML, Brain Computer Interface(BCI)**
 
 - 🤝 I’m looking for help with **Brain Computer interface(BCI)**
 
